@@ -17,7 +17,7 @@ OR
 
 # QOL Improvements
 
-- Full Equipment Box in Villages & Hubs - Change equipment, appearance, and equipment sets directly from village and gathering hub item boxes without having to return to your house or room. Untested in multiplayer/online.
+- Full Item Box In Villages And Hubs (Includes Palico Board - Up on D-Pad + A) - Change equipment, appearance, and equipment sets directly from village and gathering hub item boxes without having to return to your house or room. Untested in multiplayer/online. Access the full Palico Board by standing near the item box and pressing "Up" on the D-Pad + A.
 
 - Skip Quest End Timer (Hold A+B) - Allows you to skip the end of quest timer (usually 1 minute) after clearing a quest (similar to Monster Hunter Wilds). Skipping takes you to the rewards screen quicker. Press and hold the A and B buttons together for roughly ~1 second to activate.
 
